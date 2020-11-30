@@ -1,5 +1,5 @@
 .idea/*
-tagret/*
+tagret/
 *.iml
 *.class
 *.log
