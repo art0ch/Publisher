@@ -3,7 +3,7 @@ tagret/*
 *.iml
 *.class
 *.log
-*.gitignore
+.gitignore
 
 *.war
 *.jar
