@@ -1,0 +1,10 @@
+.idea/*
+.tagret/*
+*.iml
+*.class
+*.log
+*.gitignore
+
+*.war
+*.jar
+*.ear
